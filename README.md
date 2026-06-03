@@ -46,7 +46,11 @@ Balance and age influence customer retention
 3. Data Visualization
 Used charts and graphs to understand patterns:
 Bar charts
+<img width="537" height="394" alt="coustomerchurn" src="https://github.com/user-attachments/assets/00911939-85c4-46c3-b0d7-3316963607c9" />
+
 Histograms
+<img width="517" height="402" alt="histovis" src="https://github.com/user-attachments/assets/825b6079-b004-4892-b8d4-a8a0188828b6" />
+
 Correlation heatmaps
 Visualized relationships between features and churn
 Tools and Technologies
